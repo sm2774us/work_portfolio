@@ -1,8 +1,6 @@
 # React Tutorial: Build a Yelp Clone
 
-See the [demo](http://fullstackio.github.io/yelp-clone).
-
-Let's build a lightweight clone of Yelp using React.
+A lightweight clone of Yelp using React.
 
 ## Quickstart
 
